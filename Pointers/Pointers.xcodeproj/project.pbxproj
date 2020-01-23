@@ -88,6 +88,7 @@
 		9967737823DA0B2300C4BCE6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = JB;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "Jon Bash";
 				TargetAttributes = {
